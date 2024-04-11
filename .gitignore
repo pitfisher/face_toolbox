@@ -1,0 +1,47 @@
+# Faces images
+.png
+.PNG
+.jpeg
+.JPEG
+.jpg
+.JPG
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+eggs/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+
+# IDEs
+.idea/
+.vscode/
+
+# Runtime environment
+*.log
+*.lock
+*.pid
+*.sock
+
+# Miscellaneous
+.DS_Store
+*.swp
