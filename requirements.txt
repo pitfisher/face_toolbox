@@ -1,0 +1,4 @@
+streamlit
+deepface
+altair==4.0
+tf-keras
